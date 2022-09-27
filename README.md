@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Amaim Shaikh! 👋
+- 🔭 I’m currently a BSSE student.
+- 🌱 I’m currently exploring Blockchain.
+- 📫 How to reach me: www.linkedin.com/in/amaim-shaikh
 
 <!--
 **AmaimShaikh/AmaimShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
