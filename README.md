@@ -1,5 +1,5 @@
 ### Hi, I'm Amaim Shaikh! 👋
-- 🔭 I’m currently a BSSE student.
+- 🔭 I’m currently a QA Engineer.
 - 📫 How to reach me: www.linkedin.com/in/amaim-shaikh
 
 <!--
